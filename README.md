@@ -1,21 +1,6 @@
 # BeamIntro
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `beam_intro` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:beam_intro, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/beam_intro>.
+This repository is here to support the
+[ERTS & OTP intro post](https://dev.to/gonzooo/erts-otp-the-erlang-runtime-system-and-core-library-4b3g)
+I wrote.
 
